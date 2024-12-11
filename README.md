@@ -1,5 +1,5 @@
 # Strategies to reduce churn and increase customer lifetime value
-Subjective research case study
+Strategies to reduce churn and increase customer lifetime value
 
 **The topic of the study:**
 
