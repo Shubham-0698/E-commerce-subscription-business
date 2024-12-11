@@ -1,4 +1,4 @@
-# E-commerce-subscription-business
+# Strategies to reduce churn and increase customer lifetime value
 Subjective research case study
 
 **The topic of the study:**
